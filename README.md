@@ -1,7 +1,6 @@
           
 - 👋 Hi, I’m @llkyz
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 ## ⚡ Technologies
@@ -24,6 +23,10 @@
 ### Design Related <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 - Adobe Creative Suite (**Photoshop**, **Illustrator**, **InDesign**)
 - Computer Aided Design with **Rhinoceros 3D**
+
+## <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> Currently Learning <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+- **ExpressJS** for REST API deployment!
+
 
 ## 📊 Funky Figures and Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=llkyz&layout=compact"/>
