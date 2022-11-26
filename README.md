@@ -1,8 +1,5 @@
-          
-- 👋 Hi, I’m @llkyz
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<sup>Hello There!</sup>
+
 ## ⚡ Technologies
 ### Front End <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img  style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> **+** <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" /> <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 - **HTML** / **CSS** / **JavaScript** with ReactJS and JQuery libraries
@@ -24,13 +21,18 @@
 - Adobe Creative Suite (**Photoshop**, **Illustrator**, **InDesign**)
 - Computer Aided Design with **Rhinoceros 3D**
 
-## <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> Currently Learning <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+## <img style="width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> Currently Learning
 - **ExpressJS** for REST API deployment!
 
+## 👯‍ Looking to collaborate on
+- Community platforms
+- Games of all sorts!
 
 ## 📊 Funky Figures and Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=llkyz&layout=compact"/>
 
+
+<sub>📫 Reach out to me at lesterlohky@gmail.com</sub>
 <!---
 llkyz/llkyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
