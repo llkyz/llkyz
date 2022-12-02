@@ -24,6 +24,7 @@
 
 ## 🤓 Currently Learning
 - **ExpressJS** <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/llkyz/llkyz/icons/express/express-white-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/llkyz/llkyz/icons/express/express-original.svg"></picture> for REST API deployment!
+- **MongoDB** <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/llkyz/llkyz/icons/mongodb/mongodb-original.svg"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/llkyz/llkyz/icons/mongodb/mongodb-original.svg"></picture>
 
 ## 👯‍ Looking to collaborate on
 - Community platforms
