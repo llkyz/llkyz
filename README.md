@@ -25,8 +25,7 @@
 - Computer Aided Design with **Rhinoceros 3D**
 
 ## 🤓 Currently Learning
-- Flask for Python
-- Websockets
+- React Native
 
 ## 👯‍ Looking to collaborate on
 - Community platforms
